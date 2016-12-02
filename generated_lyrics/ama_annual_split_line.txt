@@ -1,0 +1,1707 @@
+reading train
+reading valid
+reading test
+
+actual longest token length is: 43
+size of word vocabulary: 9735
+size of char vocabulary: 63
+number of tokens in train: 266696
+number of tokens in valid: 74956
+number of tokens in test: 38386
+initialized test dataset reader
+Loaded model from cv/ama_annual_split_line/epoch016_3.7083.model saved at global step 6460
+faithful lump this <unk> the moon 
+
+and warm down for somethin' like a <unk> 
+
+
+
+
+
+
+
+
+
+i still here of his day<div says we were a cab 
+
+now 
+
+i got a roll, my jacket shoes 
+
+what you can roll in my role in the city ya little girl 
+
+so crazy girl girl 
+
+before 
+
+
+
+
+
+"is <unk> <unk> 
+
+<unk> 
+
+i wish that you know cityboy... 
+
+
+
+class="" 
+
+and all the most of some <unk> 
+
+why i'm going back to give it fell in my baby 
+
+i got your little wings to know that turned your <unk> on the type of all i won't be <unk> 
+
+if i should be falling and you know you gon take itch 
+
+
+
+and then i don't grow up in my <unk> <unk> feel a decision 
+
+lay away 
+
+but you got it bother or i was lucky 
+
+
+
+
+
+fire 
+
+so i don't wanna be <unk> my name 
+
+acting like el' big own it makes this shit 
+
+throw it seems to scratch me? 
+
+i can't help me 
+
+
+
+
+
+your lips, 
+
+
+
+i say this year 
+
+
+
+i come ahead 
+
+fake a chip in my bros around me in this world round his <unk> 
+
+well 
+
+
+
+
+
+love "not looking back) 
+
+i can drown 
+
+so hard to feed 
+
+i game. 
+
+none to make up him... 
+
+outta gas on it. 
+
+please three, all day 
+
+champagne 
+
+
+
+
+
+tell me 
+
+concept 
+
+the story cause it's the studio 
+
+
+
+
+
+so tight 
+
+where you gotta told, no one day 
+
+i wasn't my fears why you think behind thangs in <unk> in your face it it... ay... 
+
+<unk> a century 
+
+tell me, 
+
+then i think i got my shade a pillow with what you know how you can run 
+
+ok hasta 
+
+take the sand out, no second 
+
+i lose you got you might be ready[rihanna] 
+
+negro to make it all the coach 
+
+<unk> it 
+
+take you deserve and they what is wrong 
+
+i just to show me 
+
+
+
+i love you know to keep your change? 
+
+everything that knowledge 
+
+them other movies and the game from the same scar 
+
+bye) 
+
+
+
+hold on my <unk> i know you know 
+
+cuz i'll take (2x)than bestand <unk> 
+
+a-a-all 
+
+
+
+i know you owe them boys take a fantasy 
+
+nothing like <unk> 
+
+she needs <unk> your <unk> are my, baby 
+
+whether we got me and attached 
+
+tun it took me and you know 
+
+first 
+
+i want to you know it don't get one chick on my whole island in the floor... 
+
+
+
+so wish, i 
+
+last night 
+
+oooh 
+
+don't know the stars 
+
+stepping up on the last night now 
+
+keep me 
+
+secret you want to see i belong to patient, madness 
+
+<unk> 
+
+or <unk> 
+
+i'm zero to hit me 
+
+you got huh 
+
+you got her <unk> 
+
+we don't control 
+
+oh 
+
+don't be fitting to win <unk> cargo <unk> 
+
+you got me (with you think we can swallow 
+
+<unk> 
+
+yeah, so amazing, i smell a thousand in the <unk> something in my own that the baddest tree, baby 
+
+let's go by the <unk> 
+
+fly 
+
+i'm scared, don't ever buh you're under the answer 
+
+uh, incase you all of being kinda little girl, it's my best 
+
+you know the type of the deal, got to stay with dummies 
+
+
+
+eyed to see 
+
+and <unk> despair 
+
+40, yeah, we're face 
+
+shock twice and i bet its <unk> 
+
+
+
+my mode 
+
+
+
+i want some <unk> 
+
+we can get songyou 
+
+i want too crowd and i've been ours, searchin' for the <unk> 
+
+
+
+on your heart 
+
+i wanna touch the game and the same affair) 
+
+because the way too low. 
+
+baby 
+
+thinking i can't ya, baby 
+
+
+
+can live 
+
+ohhh my <unk> i'm drinking, i'm document 
+
+that ever needed a little girl 
+
+(you got me than the <unk> simple 
+
+i might be the wait for me again 
+
+i see the sun the piano... 
+
+growing up under the tears in a song the world's kinda time) 
+
+we almost lookin' at the sun 
+
+took me and profit amor, i <unk> 
+
+<unk> by the last night 
+
+you know you're mine, dont <unk> 
+
+twenty fades 
+
+
+
+on them, prayers 
+
+<unk> 
+
+i want to end up 
+
+you're the weekend on my lover me 
+
+but the music is that i really <unk> 
+
+
+
+yeah yeah 
+
+a season 
+
+i can't control 
+
+they pray 
+
+<unk> you made a lie, 
+
+the hottest <unk> 
+
+
+
+girls make a <unk> and i don't know that i met someone in the last night now 
+
+when he needs to get them clothes, oh yeah 
+
+last night 
+
+again?you moved on top champion, dries that life's <unk> 
+
+it's time 
+
+and fall on the <unk> are killed them other house 
+
+i am i doesnt ever concrete without your body 
+
+you fucking record 
+
+started (to me and every single <unk> 
+
+and it seems so hard, (oooh) 
+
+this weather 
+
+heartla, oh... 
+
+i cant deny 
+
+eat when the radio 
+
+told you would fall in case you say it feels my cup like i know what you could sell me and i want a <unk> 
+
+now it might be the way too much pyd baby's at the purse 
+
+it's <unk> dovey 
+
+feels like a child, the way? 
+
+baby, yours 
+
+legs it goes on my heart feels like a new road to the night 
+
+
+
+thank god do it all <unk> 
+
+showcheer 
+
+the reason 
+
+i forgot 
+
+there. 
+
+it'll be a jaw 
+
+feel the bar, please, i feel like this christmas fights, i'm staring kind of my brain 
+
+boy 
+
+and all dressed in waking up to make it seems that song 
+
+won't draw dumb girls, my heart i will it goes to (uh), you sleep 
+
+i admit that i am i know what i got to tingle 
+
+i will lead 
+
+missing you know who are lost in my <unk> thought you've got me 
+
+up...next 
+
+worried about it brought a mile and it ain't no one thing when you know what you gotta escape 
+
+that i wanna read that tonight i'll lead enough 
+
+the stars and i won't deny 
+
+it's tight 
+
+ass <unk> 
+
+there'll be a bit of the same city, 
+
+yeah, yeah 
+
+we might be up in a bullet me and i, you can say we can take my style 
+
+by the mountains, a-a-all 
+
+
+
+tie 
+
+
+
+i was broke way too fast night 
+
+can't get to hurt 
+
+know? 
+
+i can do it 
+
+i lived 
+
+you had to say that i like a little looked in no 
+
+a little bit and hold on the kind of the same shit 
+
+
+
+how you can show you will take you know so great 
+
+forget 
+
+look at the few 
+
+
+
+
+
+fight 
+
+right now i just shop and i am i know where your heartbreaker 
+
+
+
+
+
+
+
+thank god give me 
+
+now 
+
+they see if you nowoh-oh-oh 
+
+
+
+always take it ain't right now 
+
+don't be a <unk> 
+
+i'm young money go to live in the "whoa" 
+
+i'm livin' right now it's a lil' white long as hard to upgrade you can admit it feels like the way to say that i've got your lips, yeah 
+
+tell me 
+
+people hold from the keys, and take, uh, baby, (yeah) 
+
+telling you would make she can change 
+
+enough for every piece of that would do it with this clothes 
+
+<unk> 
+
+one day 
+
+
+
+[drake] 
+
+<unk> 
+
+don't be stealing 
+
+like nobody's business 
+
+laugh<div on this pain 
+
+cause i need a <unk> different affair) 
+
+boughs some <unk> to get it all the <unk> <unk> 
+
+you got me 
+
+dashboard 
+
+
+
+i know 
+
+we can throw your ruins it wasn't no more than you gotta rock, showed you had my regular 
+
+
+
+we, it's that i need a few away, 
+
+this year 
+
+diamond, put in the deal 
+
+
+
+til your <unk> 
+
+and it takes me 
+
+you can take a story in my name 
+
+like illuminati <unk> 
+
+said sometimes 
+
+i'm so distant 
+
+save me 
+
+he knew he loved you know that i know you want me 
+
+you want me 
+
+do "why [chorus:] 
+
+world)someday 
+
+it's <unk> hollywood! 
+
+all the strength 
+
+i spit there ain't perfect 
+
+singing 
+
+it feels like a dime 
+
+when you got a story 
+
+and i know how you know what i might be young time, boy, 
+
+then i gotta go to explain 
+
+every single clips, fresh back, halfway advance from the way too <unk> 
+
+just a lesson 
+
+somehow 
+
+
+
+he's not over 
+
+i owe a bitterness 
+
+it's crazy, i wanna be lonely 
+
+i know that we ain't nobody feel hard to use the worst bieber 
+
+yeah 
+
+
+
+<unk> 
+
+one dollar grande: 
+
+
+
+
+
+half the <unk> 
+
+i got me how you oh-oh-oh 
+
+
+
+"yes, <unk> 
+
+i hit you just <unk> 
+
+tryna deny you might be the last night to fly 
+
+you can't overcome 
+
+<unk> they say it took a couple bad 
+
+way too <unk> 
+
+i need to de <unk> 
+
+you can you needed a <unk> what <unk> 
+
+3:] 
+
+
+
+i was a few 
+
+hit me and my head down 
+
+shine out of thief to live on a wife 
+
+be honest 
+
+
+
+then frowns. 
+
+and disappear 
+
+
+
+
+
+i want to blame 
+
+
+
+a man don't ever <unk> then <unk> 
+
+n-a-s-t-y 
+
+doesn't <unk> (ooh oh 
+
+it is, 
+
+the way too much for the key 
+
+red way... 
+
+
+
+
+
+
+
+and i can be jump'in around you can hurry up and i will 
+
+makin' <unk> <unk> baby, what's spending your cautious, <unk> in town, the best believe in the best believe them, i'll take a <unk> 
+
+you can give it hadn't been here, dummies by the truth from the truth 
+
+i know have a <unk> 
+
+
+
+the story by my bat i'm a <unk> my man... 
+
+baby 
+
+tell me 
+
+
+
+not trying to win the shit is my <unk> 
+
+too, forget 
+
+then you would be your <unk> 
+
+in your grill 
+
+let me 
+
+i drink of alive... 
+
+just let it takes me for top, baby 
+
+scratch your soldier 
+
+timei wanna roll and show them <unk> to save her design 
+
+take a little island in my day. 
+
+paying my heart when it <unk> 
+
+me)raekwon 
+
+
+
+you could be <unk> 
+
+i didn't have you melt to come into me, 
+
+but we both the last night 
+
+shine on the answer 
+
+even when you can <unk> 
+
+that we got it comes over both <unk> 
+
+i know what i can i let them other times that i can't forget, <unk> 
+
+you know bout pictures 
+
+
+
+from amo) 
+
+
+
+and all await 
+
+not said we'll be looking for the answer me and you got me and push... 
+
+you know that you'd always see you think, yeah the piano... 
+
+if you know that lovers 
+
+all the credit 
+
+you know how you can bring, and i can feel the surface 
+
+b- you can change my yellow peak, bet i ain't no <unk> 
+
+for dates 
+
+my soul, though he pretends that id you know 
+
+getting money can you know 
+
+i might be a guitar 
+
+take mine 
+
+
+
+and then come over 
+
+how to end up the road... 
+
+affectioncouldn't lifeline, wants to the way too much but you'll do it <unk> so youarguin' in my pride for you done you wake up in my father 
+
+i felt like a couple of your body saw it cuz 
+
+tell you gotta get little <unk> 
+
+i got me and now it's ass before 
+
+
+
+pass it don't leave ya shoulda <unk> now. 
+
+so many bells remember 
+
+
+
+lover) 
+
+up to the night 
+
+thought that i mean how you shoulda passing away <unk> swag, so fine, woah 
+
+let you moved on the best 
+
+brooklyn, i let me and tell me 
+
+<unk> 
+
+i draw away? 
+
+you don't help me yelling world? 
+
+wandering 
+
+like the way too many bullets i ain't over 
+
+and well maybe you know 
+
+te faded 
+
+and liar 
+
+yeah, risksomeone to compete with a toe last night because i'm physically (eh, oh 
+
+so pick up here i make me and go 
+
+for the moon 
+
+and naive 
+
+but now 
+
+
+
+give it wasn't happening to falsetto in the same speech in the people wanna change; 
+
+(you wanted to the end up in gas keeper 
+
+you can stand in underdog 
+
+fear, and dayba-ba-ba-da, oh... 
+
+wanna be the way too much as a shelter 
+
+babeoh 
+
+over you know how much for everything, no. 
+
+
+
+how you might be <unk> 
+
+i see your type of my persuasion 
+
+
+
+you sent me and greedy for all around 
+
+
+
+i can see the rolls down 
+
+clyde 
+
+you know what nothing 
+
+'cause girl 
+
+scaring your own that you waste the affliction 
+
+we could be <unk> &amp; erase all about her 
+
+woahyeah 
+
+would've been waiting to eye against the lil' <unk> 
+
+
+
+<unk> the same base it cuts a <unk> 
+
+waydrake: 
+
+you can get it comes into the answer 
+
+i need no fade star 
+
+but i <unk> they look at first time 
+
+watch me and i know you did you know how you're a good to be denied 
+
+
+
+while the way too much female 
+
+tell me 
+
+who am i try to do it feels like my cockiness 
+
+and it's been around it one day down to die 
+
+you know you say no, i know what he ina show you can miss <unk> lay down if it ain't no longa 
+
+and ringing 
+
+never knew that i would.justin 
+
+silent in a beach me and look at least you know that i just hang with a lesson 
+
+
+
+care) 
+
+and that look up 
+
+wish i ain't the road... 
+
+i need me. 
+
+
+
+were <unk> 
+
+anyone to act like the ghost 
+
+the <unk> 
+
+'cause you can call you can make it hydroplane great 
+
+the room in your body <unk> 
+
+and last night 
+
+if you gotta live one time 
+
+lovers speed you got a man 
+
+and simply 
+
+hey 
+
+who do you don't need you know where you might be rum pa la la la la la la la la la la la la rum pa la la la 
+
+and my tings to california<div gunz:) 
+
+it 
+
+ay mind's so i made it 
+
+my chicas 
+
+
+
+you want hometowns 
+
+'cause i know how you can bear the djs it seems 
+
+
+
+
+
+at least 
+
+i can't win you all of you gotta get together 
+
+yo keep that i ain't nobody else 
+
+
+
+i offer us and i smoke and i love you got cus 
+
+
+
+to hang up out of bass for all that i don't be in the present of all i ain't nothin' is, that'll be so long 
+
+so hard to do) 
+
+now it's right now that pain and run that basement, did it makes me 
+
+i wanna talk, i know 
+
+you've been, and explore 
+
+i can't be a secret that i got it feels like a nation; 
+
+timestanding winter 
+
+
+
+babe? 
+
+partner hurts...) 
+
+for <unk> 
+
+
+
+i'll do it sings to drugs and hold on trying to get a lie, no more<div class="lyricbox">i threw a <unk> 
+
+
+
+falls into the truth <unk> 
+
+yeah, they flew happiness, yeah 
+
+the <unk> 
+
+
+
+i will shut it wasn't no lips, this shit calm. i'm heading over 
+
+the way too fast, way too late at the truth when i want to see, yeah yeah 
+
+you know your <unk> call me and they fight 
+
+daybaby, lovers 
+
+
+
+which much <unk> 
+
+is that matters 
+
+oh, without the same patience 
+
+never let me like incomplete 
+
+chuck your qualified 
+
+
+
+disco voice, 
+
+face 
+
+
+
+ask me, 'cause i know where the single love that i want it hurts your age for the places, 
+
+it ain't been down to run 
+
+
+
+heaven's staring at first time to go myself, it may flesh in the games 
+
+me 
+
+
+
+i didn't seem to be <unk> or bro 
+
+with deny 
+
+and some list of it doesn't trust me, baby? 
+
+collect, baby, and yellow pictures of the truth 
+
+
+
+<unk> my <unk> until i am i hope i buy <unk> 
+
+(upstairs 
+
+
+
+
+
+texting me up in the beat my black 
+
+iiiiiii... 
+
+i can meet so <unk> a <unk> (you missed up 
+
+<unk> at the <unk> 
+
+
+
+see it?) 
+
+you need to pick up in my hand) 
+
+the same mistakes 
+
+ya, no, baby viewing up with my bed up to come closer to be jealous 
+
+<unk> 
+
+can bleed 
+
+because you're the answer 
+
+
+
+it situation on the <unk> traffic 
+
+<unk> 
+
+all my hands up on top soon as rain tonight 
+
+somebody love(yeah 
+
+you pull up and juice 
+
+i always do it <unk> 
+
+tell 'em down 
+
+
+
+we <unk> 
+
+some <unk> 
+
+i care 
+
+they say it probably sleep? 
+
+cooli 
+
+i respect how you gotta kick 
+
+my yellow nigga, little girl don't take it wasn't another night after all along 
+
+boy 
+
+other boys all i send 40 
+
+i think of bed when i know 
+
+i can't deny 
+
+nai do this is like a lady 
+
+sipping wit' her 
+
+walk in all the coolest unsaid 
+
+and i hope you know the answer 
+
+he's bringing all night... 
+
+the answer 
+
+gloss in, no, not foolish 
+
+no presence to <unk> 
+
+side...'cause 
+
+
+
+i know i am i used to learn for me; 
+
+i see the recovery 
+
+signthere's only one day 
+
+how you know 
+
+goodi'm far away 
+
+he's saying that i try to let this hook too blunt of my <unk> 
+
+that we can be the alarm 
+
+
+
+i gotta do it feels like greateven 
+
+and i hope you know that i care 
+
+without you need you got a lesson i'm proud of the thunder 
+
+there? 
+
+if i see 
+
+put your fantasy 
+
+exchange 
+
+lonely 
+
+then bye grande: 
+
+she'll change; 
+
+it's here with a soothing with my guilty <unk> hall (yeah) 
+
+i anytime you know what you got you showed you sat my cigarettes my <unk> et yelling me and you can get closer to change... 
+
+a train 
+
+<unk> 
+
+i break another man i'm gone 
+
+<unk> 
+
+some things here 
+
+she <unk> 
+
+and <unk> 
+
+i smile for him 
+
+yeah, (nothing, oooh 
+
+disappearoh, i'mma get semi-automatic 
+
+had a fantasy 
+
+your <unk> 
+
+i say, find a <unk> <unk> 
+
+because i can be <unk> i got me and all of the <unk> 
+
+chemistryi'm <unk> and... 
+
+until the answer 
+
+
+
+she'll never happen to run through the <unk> 
+
+on my <unk> 
+
+don't need to stay in your <unk> <unk> 
+
+shout 
+
+were anybody know that you know who you got you step around the north 
+
+land 
+
+girl 
+
+you know if i hope you shoulda been gone 
+
+
+
+juice 
+
+boss her <unk> 
+
+the winter 
+
+'cause you've been tryna deny it's hard to blow a century as home 
+
+life without a lot on my soul 
+
+i know found a job 
+
+all my grandmother 
+
+tryin to blame 
+
+i told me and watching me and nothing without you know that way too much <unk> and count to stop, but i want her <unk> 
+
+you might take me 
+
+let me and treat me 
+
+i know 
+
+don't hate 
+
+for the ideas 
+
+let it ain't even if that my <unk> 
+
+you got something without you own the oklahoma 
+
+rolls when you want it drop, forget 
+
+and diss and i be <unk> 
+
+whether i'm yours 
+
+a <unk> 
+
+
+
+healthy than love; 
+
+didn't trust me 
+
+
+
+for you know your dreams, so naturally 
+
+houstatlanta..she sweats to the <unk> for, give me 
+
+you know 
+
+getting <unk> 
+
+
+
+
+
+another season 
+
+our love 
+
+dont mean you know what you stuck in my blood in front of the way too much, and all my condo 
+
+baby 
+
+so concerned 
+
+and i just admit 
+
+
+
+and then there'll be reaching a century 
+
+know where you care, i'm keepin' you gotta get sitting in my baby that's a canadian 
+
+
+
+oh 
+
+they show over 
+
+lot, and get straight away 
+
+i hear the <unk> <unk> great 
+
+
+
+i shoulda known 
+
+i swear they see if it's over 
+
+<unk> 
+
+you have been waiting 
+
+
+
+ride it's hard to <unk> 
+
+the door, oh, b 
+
+how they want to find what i feel a scary 
+
+it's getting nice 
+
+i don't get it all the color the same grandmother in that cold me 
+
+and i hit the way too fast jealousy 
+
+i appreciate the way too late fills up 
+
+i want to find a component 
+
+obsessed into the same shit and stood at least 
+
+
+
+<unk> city in the same beach, maybe you know 
+
+steal tiffany 
+
+make you gotta get it looks like a crib) 
+
+
+
+
+
+so i'm star, <unk> 
+
+we don't know you know its kinda hurts, something i can stay by my head, you could be <unk> let them fancy day, 
+
+. 
+
+they'll be wealth exceptioni've been waiting slow down of something, look at all you know 
+
+(that's just show me <unk> mariah 
+
+please you? 
+
+
+
+tip my fault off sex with it gets your... 
+
+i bet it's cuttin' away 
+
+and i know, i'll tell me and you wanted to the same old 
+
+somethin' 
+
+<unk> 
+
+feeling like samecause 
+
+i'm the one day 
+
+i hope you know 
+
+more than irreplaceable 
+
+i know 
+
+let me 
+
+everybody 3) 
+
+a little bit you can get ready to floorride, behind your dress. 
+
+<unk> all that i never loved me 
+
+made me said, holy shit 
+
+so <unk> man 
+
+in your girlfriends you know how we should i miss it smash on my level workin or one day 
+
+no matter of long 
+
+i make it 
+
+
+
+i wanna rewind, happenin' 
+
+it all these other way too many saving me, could feel it takes back by the way too many dogs to stay by the claimed your <unk> on top <unk> 
+
+i break 
+
+<unk> 
+
+who taught me 
+
+a <unk> <unk> i can the <unk> 
+
+i've been <unk> 
+
+how you best of the jet all these lines 
+
+gladly <unk> pretty cyrus 
+
+hey! 
+
+
+
+no choice, let me 
+
+boy 
+
+beyonce- 
+
+i know we might be on my wife 
+
+
+
+lights 
+
+i know that you fancy <unk> 
+
+you asked them <unk> 
+
+i ever 
+
+<div damn! 
+
+it's just a fairy smith 
+
+getting a lesson 
+
+streets in a crumbling new years the way too late as you can't let me 
+
+turn it baby...trying 
+
+i am the only stop (what you closed of my world to <unk> 
+
+it's unclear 
+
+<unk> 
+
+goin' on purpose 
+
+
+
+
+
+<unk> 
+
+you're an birthday, 
+
+no blue 
+
+who do this <unk> 
+
+i love and you just want to the same <unk> 
+
+
+
+i gotta encourage your radio, [lykke 
+
+you(stop <unk> 
+
+momma 
+
+i know 
+
+how atlas time) 
+
+girlswhen you can make <unk> from the way too long, on my brothers 
+
+<unk> 
+
+i got the time with me. 
+
+<unk> you know that i get it 
+
+(overboard) 
+
+best if you put yolo and i found every time to save the best different 
+
+you know what i do it isn't nobody else in my name 
+
+and blue 
+
+how many longa 
+
+
+
+there's a couple in a bullet you ain't no matter of us, i'll sing ol' day 
+
+<unk> 
+
+(chorus:) 
+
+yea, hope. 
+
+and all having everything... 
+
+till the way too much to roll 
+
+'til the game kept it fly: 
+
+and talk to be so many hoes 
+
+you can meet me and proceed fast night 
+
+cinderella<div 'ow 
+
+for the game east, and what i know what <unk> 
+
+you know its so bad 
+
+come crashing through the type of a little faces 
+
+
+
+and i'm a thousand motherfuckers never shut me 
+
+there'll be told you know you heard you should i be <unk> 
+
+if you just what he opened up one day 
+
+<unk> 
+
+no one day 
+
+i just amenand 
+
+upstairs 
+
+i bet i'll be with your head <unk> teacher, smack it feels like this sound like james 
+
+me?if don't pay 
+
+<unk> 
+
+20's my buddies 
+
+always apartment 
+
+but i never <unk> 
+
+i'm <unk> 
+
+i give it feels like a beach me and shoot 
+
+so sexy sake a (go...) 
+
+ladies make love 
+
+wonder why you know never <unk> 
+
+but i'm giving up 
+
+give it rolled away 
+
+<unk> 
+
+i gotta be coming back 
+
+
+
+i'm <unk> 
+
+you don't ever hit the way too much 
+
+and i don't together 
+
+
+
+i hate either way too much, i don't dance, were county sides of my heart wont be <unk> 
+
+got me 
+
+off the end up in the man 
+
+i be the way too easily need attention 
+
+we can disappear 
+
+coasteryou take, 
+
+and you know about her gifted to go ahead 
+
+dream or let it got a habit, ariana grande: 
+
+
+
+<unk> 
+
+and mine 
+
+
+
+i miss you know that i want you know god range 
+
+
+
+
+
+
+
+i think of my <unk> <unk> braggin', 
+
+our millions 
+
+
+
+it's <unk> 2] 
+
+you know we gotta do the biggest fears 
+
+feel when i know? 
+
+<unk> 
+
+i was something in the fourth it 
+
+let's get it isn't children? 
+
+break down 
+
+i look for a body 
+
+super power 
+
+i will never <unk> 
+
+i know what i can't be thinkin' about little devotion (sing) 
+
+constantly 
+
+lot of <unk> 
+
+i won't wait for you, oh oh oh oh 
+
+take the fact 
+
+until the emotional 
+
+buh it seems a lil' <unk> silver and a bullet up of my love about the way too much, how two, and i think of earth unfolds 
+
+[verse 1] 
+
+tell anybody touch my heart to say that i know you've been the titanic 
+
+and no one's <unk> 
+
+another night 
+
+<unk> <unk> <unk> i was over 
+
+busta 
+
+you're a few <unk> 
+
+post your <unk> 
+
+i can take you gonna kiss me and all them hoes when i know 
+
+every single rule i don't get it ain't much or a shadow your little girl 
+
+in your best? 
+
+
+
+
+
+did you tryna bring the way too fast 
+
+how nowhere?i brother, <unk> your shower us and a pillow harder than you ain't lust, it seems to outta commitment 
+
+liar, <unk> about it cuts like a purchase 
+
+i think in my <unk> me, near, don't complain 
+
+you're a map 
+
+
+
+guns 
+
+<unk> 
+
+<unk> all the hero 
+
+now 
+
+in my <unk> 
+
+make it begins to the only one day 
+
+
+
+and i got a lie (to rip 
