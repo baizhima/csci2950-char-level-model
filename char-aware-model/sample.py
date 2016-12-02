@@ -1,4 +1,4 @@
-from __future__ import print_function
+#from __future__ import print_function
 from adict import adict
 import time
 import tensorflow as tf
@@ -39,10 +39,28 @@ def main(_):
             ix = np.random.choice(range(len(conved_prob)), p=conved_prob)
 
             word = word_level_set.token(ix)
+
+            # to_output = word
+            # if word == '+':
+            #     to_output = '\n'
+            # elif word == '|':
+            #     to_output = '<unk>'
+
+            # print(to, end=' ')
             if word == '+':
-                print('\n')
+                print ''
+            elif word == '|':
+                print '<unk> ',
             else:
-                print(word, end=' ')
+                print word,
+
+
+            # if word == '+':
+            #     print('')
+            # elif word == '|':
+            #     print('<unk>',end=' ')
+            # else:
+            #     print(word, end=' ')
 
             char_data_input = np.zeros((1, 1, max_word_length))
             for i,c in enumerate('{' + word + '}'):

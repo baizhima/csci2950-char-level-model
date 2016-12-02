@@ -99,7 +99,7 @@ def load_data(input_dir):
         fpath = os.path.join(input_dir, fn + '.txt')
         with codecs.open(fpath, 'r', 'utf-8') as f:
             for line in f:
-                line = line.strip().replace('}', '').replace('{', '').replace('|', '').replace('+', '')
+                line = line.strip().replace('}', '').replace('{', '').replace('|', '').replace('+', '').replace('<unk>', ' | ')
                 for word in line.split():
                     if len(word) > max_len_preset - 2:
                         word = word[:max_len_preset-2]
