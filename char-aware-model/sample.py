@@ -40,27 +40,12 @@ def main(_):
 
             word = word_level_set.token(ix)
 
-            # to_output = word
-            # if word == '+':
-            #     to_output = '\n'
-            # elif word == '|':
-            #     to_output = '<unk>'
-
-            # print(to, end=' ')
             if word == '+':
                 print ''
             elif word == '|':
                 print '<unk> ',
             else:
                 print word,
-
-
-            # if word == '+':
-            #     print('')
-            # elif word == '|':
-            #     print('<unk>',end=' ')
-            # else:
-            #     print(word, end=' ')
 
             char_data_input = np.zeros((1, 1, max_word_length))
             for i,c in enumerate('{' + word + '}'):
