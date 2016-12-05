@@ -4,15 +4,18 @@
 Shan Lu(slu5), Huan Lin(hl18), Yahui Wang(ywang90) Qian Mei(qmei)
 
 ## Usage
-train:
+####training model
+```shell
 cd char-aware-model
-python train.py --input_dir ../data/taylor_swift_split_line --check_dir ../cv/taylor_swift_split_line
+python train.py --input_dir ../data/taylor_swift_split_line --check_dir ../cv/taylor_swift
+```
 
-
-generate:
+####lyrics generation
+We have included a pretrained model into this repository for demostration purpose.
+```shell
 cd char-aware-model
-python sample.py --load_saved_checkpoint cv/taylor_swift/ep_000_6.3949.model --input_dir ../data/taylor_swift_split_line
-
+python sample.py --load_saved_checkpoint cv/taylor_swift/ep_000_6.3949.model --input_dir ../data/taylor_swift_pretrained/ep_019_4.0878.model
+```
 
 ## Reference
 1. Char-RNN by Karpathy
