@@ -1,7 +1,7 @@
 # CSCI 2950 Character level language modeling in lyrics generation
 
 ## Group members
-Shan Lu(slu5), Huan Lin(hl18), Yahui Wang(ywang90) Qian Mei(qmei)
+Shan Lu(slu5), Huan Lin(hl18), Yahui Wang(ywang90), Qian Mei(qmei)
 
 ## Usage
 ####training model
@@ -14,7 +14,7 @@ python train.py --input_dir ../data/taylor_swift_split_line --check_dir ../cv/ta
 We have included a pretrained model into this repository for demostration purpose.
 ```shell
 cd char-aware-model
-python sample.py --load_saved_checkpoint cv/taylor_swift/ep_000_6.3949.model --input_dir ../data/taylor_swift_pretrained/ep_019_4.0878.model
+python sample.py --load_saved_checkpoint cv/taylor_swift_pretrai    ned/ep_019_4.0878.model --input_dir ../data/taylor_swift_split_line
 ```
 
 ## Reference
