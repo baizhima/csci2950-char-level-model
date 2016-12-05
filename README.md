@@ -11,10 +11,10 @@ python train.py --input_dir ../data/taylor_swift_split_line --check_dir ../cv/ta
 ```
 
 ####lyrics generation
-We have included a pretrained model into this repository for demostration purpose.
+We have included a pretrained model(Taylor Swfit, split song into train/test set, 20 epochs) into this repository for demostration purpose.
 ```shell
 cd char-aware-model
-python sample.py --load_saved_checkpoint cv/taylor_swift_pretrai    ned/ep_019_4.0878.model --input_dir ../data/taylor_swift_split_line
+python sample.py --load_saved_checkpoint cv/taylor_swift_pretrained/ep_019_4.0878.model --input_dir ../data/taylor_swift_split_line
 ```
 
 ## Reference
